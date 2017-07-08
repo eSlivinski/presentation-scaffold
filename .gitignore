@@ -11,5 +11,3 @@ node_modules/
 bower_components/
 .sass-cache
 css/main.css
-css/main.min.css
-js/reveal.min.js

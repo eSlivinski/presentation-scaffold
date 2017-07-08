@@ -1,5 +1,5 @@
 {
-  "name": "migrating2VectorTiles",
+  "name": "presentation-scaffold",
   "version": "0.0.0",
   "main": "js/reveal.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "author": "Lizzi Slivinski",
   "repository": {
     "type": "git",
-    "url": "git://github.com/eslivinski/migrating2VectorTiles.git"
+    "url": "https://github.com/eSlivinski/presentation-scaffold.git"
   },
   "engines": {
     "node": ">=4.0.0"
